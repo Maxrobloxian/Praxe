@@ -1,6 +1,6 @@
 # 2D Fun
 
-Muj project je Unity hra ###"2D Fun". Je to jednoducha 2D minigamova hra. V ni jsem udelal 2 male hry, jedna je clicker a druha je obstacle course (neco podobnycho).
+Muj project je Unity hra **"2D Fun"**. Je to jednoducha 2D minigamova hra. V ni jsem udelal 2 male hry, jedna je clicker a druha je obstacle course (neco podobnycho).
 
 ## Jak stahnout hru
 1. Kliknete na dolni link  
